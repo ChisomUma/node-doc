@@ -197,6 +197,275 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Email",
+    "headers": [
+      {
+        "level": 2,
+        "title": "The Nodemailer Module",
+        "slug": "the-nodemailer-module",
+        "link": "#the-nodemailer-module",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Sending an Email",
+        "slug": "sending-an-email",
+        "link": "#sending-an-email",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Multiple Receivers",
+        "slug": "multiple-receivers",
+        "link": "#multiple-receivers",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Send HTML",
+        "slug": "send-html",
+        "link": "#send-html",
+        "children": []
+      }
+    ],
+    "path": "/docs/Basics/Email.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Events",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Events in Node.js",
+        "slug": "events-in-node-js",
+        "link": "#events-in-node-js",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Events Module",
+        "slug": "events-module",
+        "link": "#events-module",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "The EventEmitter Object",
+        "slug": "the-eventemitter-object",
+        "link": "#the-eventemitter-object",
+        "children": []
+      }
+    ],
+    "path": "/docs/Basics/Events.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "File System",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Node.js as a File Server",
+        "slug": "node-js-as-a-file-server",
+        "link": "#node-js-as-a-file-server",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Read Files",
+        "slug": "read-files",
+        "link": "#read-files",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Create Files",
+        "slug": "create-files",
+        "link": "#create-files",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Update and Delete Files",
+        "slug": "update-and-delete-files",
+        "link": "#update-and-delete-files",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Rename Files",
+        "slug": "rename-files",
+        "link": "#rename-files",
+        "children": []
+      }
+    ],
+    "path": "/docs/Basics/File%20System.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "HTTP Modules",
+    "headers": [
+      {
+        "level": 2,
+        "title": "The Built-in HTTP Module",
+        "slug": "the-built-in-http-module",
+        "link": "#the-built-in-http-module",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Node.js as a Web Server",
+        "slug": "node-js-as-a-web-server",
+        "link": "#node-js-as-a-web-server",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Add an HTTP Header",
+        "slug": "add-an-http-header",
+        "link": "#add-an-http-header",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Read the Query String",
+        "slug": "read-the-query-string",
+        "link": "#read-the-query-string",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Split the Query String",
+        "slug": "split-the-query-string",
+        "link": "#split-the-query-string",
+        "children": []
+      }
+    ],
+    "path": "/docs/Basics/HTTP%20Modules.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Modules",
+    "headers": [
+      {
+        "level": 2,
+        "title": "What is a Module in Node.js?",
+        "slug": "what-is-a-module-in-node-js",
+        "link": "#what-is-a-module-in-node-js",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Built-in Modules",
+        "slug": "built-in-modules",
+        "link": "#built-in-modules",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Create Your Own Modules",
+        "slug": "create-your-own-modules",
+        "link": "#create-your-own-modules",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Include Your Own Module",
+        "slug": "include-your-own-module",
+        "link": "#include-your-own-module",
+        "children": []
+      }
+    ],
+    "path": "/docs/Basics/Modules.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "NPM",
+    "headers": [
+      {
+        "level": 2,
+        "title": "What is a Package?",
+        "slug": "what-is-a-package",
+        "link": "#what-is-a-package",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Download a Package",
+        "slug": "download-a-package",
+        "link": "#download-a-package",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Using a Package",
+        "slug": "using-a-package",
+        "link": "#using-a-package",
+        "children": []
+      }
+    ],
+    "path": "/docs/Basics/NPM.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Basics",
+    "headers": [],
+    "path": "/docs/Basics/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Upload Files",
+    "headers": [
+      {
+        "level": 2,
+        "title": "The Formidable Module",
+        "slug": "the-formidable-module",
+        "link": "#the-formidable-module",
+        "children": [
+          {
+            "level": 3,
+            "title": "Upload Files",
+            "slug": "upload-files",
+            "link": "#upload-files",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/docs/Basics/Upload%20Files.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "URL Module",
+    "headers": [
+      {
+        "level": 2,
+        "title": "The Built-in URL Module",
+        "slug": "the-built-in-url-module",
+        "link": "#the-built-in-url-module",
+        "children": [
+          {
+            "level": 3,
+            "title": "Node.js File Server",
+            "slug": "node-js-file-server",
+            "link": "#node-js-file-server",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/docs/Basics/URL%20Module.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Collection",
     "headers": [
       {
@@ -699,275 +968,6 @@ export const searchIndex = [
       }
     ],
     "path": "/docs/MongoDB/Update.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Email",
-    "headers": [
-      {
-        "level": 2,
-        "title": "The Nodemailer Module",
-        "slug": "the-nodemailer-module",
-        "link": "#the-nodemailer-module",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Sending an Email",
-        "slug": "sending-an-email",
-        "link": "#sending-an-email",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Multiple Receivers",
-        "slug": "multiple-receivers",
-        "link": "#multiple-receivers",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Send HTML",
-        "slug": "send-html",
-        "link": "#send-html",
-        "children": []
-      }
-    ],
-    "path": "/docs/Basics/Email.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Events",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Events in Node.js",
-        "slug": "events-in-node-js",
-        "link": "#events-in-node-js",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Events Module",
-        "slug": "events-module",
-        "link": "#events-module",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The EventEmitter Object",
-        "slug": "the-eventemitter-object",
-        "link": "#the-eventemitter-object",
-        "children": []
-      }
-    ],
-    "path": "/docs/Basics/Events.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "File System",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Node.js as a File Server",
-        "slug": "node-js-as-a-file-server",
-        "link": "#node-js-as-a-file-server",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Read Files",
-        "slug": "read-files",
-        "link": "#read-files",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Create Files",
-        "slug": "create-files",
-        "link": "#create-files",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Update and Delete Files",
-        "slug": "update-and-delete-files",
-        "link": "#update-and-delete-files",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Rename Files",
-        "slug": "rename-files",
-        "link": "#rename-files",
-        "children": []
-      }
-    ],
-    "path": "/docs/Basics/File%20System.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "HTTP Modules",
-    "headers": [
-      {
-        "level": 2,
-        "title": "The Built-in HTTP Module",
-        "slug": "the-built-in-http-module",
-        "link": "#the-built-in-http-module",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Node.js as a Web Server",
-        "slug": "node-js-as-a-web-server",
-        "link": "#node-js-as-a-web-server",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Add an HTTP Header",
-        "slug": "add-an-http-header",
-        "link": "#add-an-http-header",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Read the Query String",
-        "slug": "read-the-query-string",
-        "link": "#read-the-query-string",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Split the Query String",
-        "slug": "split-the-query-string",
-        "link": "#split-the-query-string",
-        "children": []
-      }
-    ],
-    "path": "/docs/Basics/HTTP%20Modules.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Modules",
-    "headers": [
-      {
-        "level": 2,
-        "title": "What is a Module in Node.js?",
-        "slug": "what-is-a-module-in-node-js",
-        "link": "#what-is-a-module-in-node-js",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Built-in Modules",
-        "slug": "built-in-modules",
-        "link": "#built-in-modules",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Create Your Own Modules",
-        "slug": "create-your-own-modules",
-        "link": "#create-your-own-modules",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Include Your Own Module",
-        "slug": "include-your-own-module",
-        "link": "#include-your-own-module",
-        "children": []
-      }
-    ],
-    "path": "/docs/Basics/Modules.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "NPM",
-    "headers": [
-      {
-        "level": 2,
-        "title": "What is a Package?",
-        "slug": "what-is-a-package",
-        "link": "#what-is-a-package",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Download a Package",
-        "slug": "download-a-package",
-        "link": "#download-a-package",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Using a Package",
-        "slug": "using-a-package",
-        "link": "#using-a-package",
-        "children": []
-      }
-    ],
-    "path": "/docs/Basics/NPM.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Basics",
-    "headers": [],
-    "path": "/docs/Basics/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Upload Files",
-    "headers": [
-      {
-        "level": 2,
-        "title": "The Formidable Module",
-        "slug": "the-formidable-module",
-        "link": "#the-formidable-module",
-        "children": [
-          {
-            "level": 3,
-            "title": "Upload Files",
-            "slug": "upload-files",
-            "link": "#upload-files",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/docs/Basics/Upload%20Files.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "URL Module",
-    "headers": [
-      {
-        "level": 2,
-        "title": "The Built-in URL Module",
-        "slug": "the-built-in-url-module",
-        "link": "#the-built-in-url-module",
-        "children": [
-          {
-            "level": 3,
-            "title": "Node.js File Server",
-            "slug": "node-js-file-server",
-            "link": "#node-js-file-server",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/docs/Basics/URL%20Module.html",
     "pathLocale": "/",
     "extraFields": []
   },

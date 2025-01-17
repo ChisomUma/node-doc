@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "/assets/icon/node.png",
 
-  repo: "",
+  repo: "https://github.com/ChisomUma/node-doc",
 
   docsDir: "src",
 
